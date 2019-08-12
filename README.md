@@ -20,7 +20,7 @@ In this game by using the [Minimax algorithm](https://www.geeksforgeeks.org/mini
 
 
 ## Dependencies
-* This project needs a c++ compiler.
+* This project needs a C++ compiler.
 
 ## How it works
 1. Clone the repository
