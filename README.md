@@ -14,21 +14,25 @@ The aim of this project is designing a board game engine in order to manage a bo
 # Othello
 In this project, the Othello game is designed by use of this engine. The Othello game is executed due to polymorphism by inheritance from engine classes and overriding techniques. This engine and associated game are implemented in C++.
 
+## AI 😎
+In this game by using the [Minimax algorithm](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/), the computer can find the optimal move, assuming that you also play optimally.
 
-##   Dependencies
+
+
+## Dependencies
 * This project needs a c++ compiler.
 
 ## How it works
 1. Clone the repository
-2. Run <code> make </code>
-3. Run the executable <code> othello </code>
+2. Run <code>make</code>
+4. Run the executable <code>othello</code>
 
 ![](ScreenShots/othello.png)
 
 
 ### Todo
 
-- [x]  Designing  a proper Graphical User Interface in JAVA for the game to support all elements described above in addition of some options for initializing, saving, loading or ... .
-- [ ]  Connecting C++ and Java with JNI
+- [x]  Design a proper Graphical User Interface in JAVA for the game to support all elements described above in addition of some options for initializing, saving, loading or... .
+- [ ]  Connect C++ and Java with JNI
 
 
