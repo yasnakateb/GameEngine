@@ -31,7 +31,7 @@ In this game by using the [Minimax algorithm](https://www.geeksforgeeks.org/mini
 
 
 ### Todo
-
+----------
 - [x]  Design a proper Graphical User Interface in JAVA for the game to support all elements described above in addition of some options for initializing, saving, loading or... .
 - [ ]  Connect C++ and Java with JNI
 
