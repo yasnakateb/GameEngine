@@ -24,7 +24,7 @@ In this game by using the [Minimax algorithm](https://www.geeksforgeeks.org/mini
 
 ## How it works
 1. Clone the repository
-2. Run <code>make</code>
+2. Run <code>$ make</code>
 4. Run the executable <code>othello</code>
 
 ![](ScreenShots/othello.png)
